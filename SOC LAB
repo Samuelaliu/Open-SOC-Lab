@@ -1,0 +1,6 @@
+### 3. **Additional Files**
+To make it more professional:  
+- **SETUP.md** → A detailed step-by-step installation guide.  
+- **/configs/** → Any Sysmon configs, Suricata rules, or HELK pipelines you used.  
+- **/screenshots/** → Store your architecture diagram + Kibana screenshot.  
+- **LICENSE** → Add MIT License to allow open use.  
